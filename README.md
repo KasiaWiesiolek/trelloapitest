@@ -1,1 +1,1 @@
-# Kolekcja z Postmana dotycząca testów Trello
+# Trello API testing with Postman
